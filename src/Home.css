@@ -1,0 +1,22 @@
+.home {
+  background: url("https://www.actualidadiphone.com/wp-content/uploads/2020/11/iphone-resistente-al-agua.png.webp")
+    center center fixed no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  display: grid;
+  place-items: center;
+  position: absolute;
+}
+.home > h1{
+  text-shadow: 1px 3px 12px lightgrey;
+  font-size: 80px;
+  font-family: sans-serif;
+  letter-spacing: 5px;
+  bottom:0;
+}

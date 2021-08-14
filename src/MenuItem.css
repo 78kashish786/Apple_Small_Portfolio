@@ -1,0 +1,23 @@
+.menuItem {
+  border-bottom: 1px solid #d0d1d2;
+  text-align: left;
+  cursor: pointer;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+.menuItem > h3 {
+  font-family: sans-serif;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  padding-bottom: 15px;
+  font-size: 15px;
+  padding-left: 10px;
+  cursor: pointer;
+}
+.menuItem:hover{
+  color:rgba(82, 81, 81, 0.849);
+  /* background-color: black;
+  border-radius: 50px; */
+
+}
